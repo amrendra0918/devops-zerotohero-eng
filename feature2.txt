@@ -1,0 +1,8 @@
+This is the feature 2.
+
+Second line for feature 2.
+Adding line 3 for feature 2.
+
+
+Now the code is alright!
+
