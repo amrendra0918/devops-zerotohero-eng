@@ -1,2 +1,4 @@
 This is the feature 2.
 
+Second line for feature 2.
+
